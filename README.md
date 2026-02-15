@@ -27,19 +27,22 @@ Here are some ideas to get you started:
 ## 🛠 Tech Stack
 
 ### Apple Platforms
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=apple,swift" alt="Apple Platforms" />
+</p>
 
 ### Embedded & Hardware
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-* **Hardware:** Stepper & Servo Motor Control, Circuit Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,arduino" alt="Embedded & Hardware" />
+</p>
+
+* **Hardware:** ESP32, Stepper & Servo Motor Control, Circuit Design
 * **Prototyping:** 3D Printing (Bambu Lab P1S, CR-10 Max)
 
 ### Web & Blockchain
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,solana" alt="Web & Blockchain" />
+</p>
 
 ---
 
