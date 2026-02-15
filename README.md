@@ -28,12 +28,22 @@ Here are some ideas to get you started:
 
 ### Apple Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=apple,swift" alt="Apple Platforms" />
+  <a href="https://namu.wiki/w/Apple" target="_blank">
+    <img src="https://skillicons.dev/icons?i=apple" alt="Apple" />
+  </a>
+  <a href="https://namu.wiki/w/Swift(프로그래밍%20언어)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
+  </a>
 </p>
 
 ### Embedded & Hardware
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,arduino" alt="Embedded & Hardware" />
+  <a href="https://namu.wiki/w/C(프로그래밍%20언어)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  </a>
+  <a href="https://namu.wiki/w/아두이노" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+  </a>
 </p>
 
 * **Hardware:** ESP32, Stepper & Servo Motor Control, Circuit Design
@@ -41,7 +51,12 @@ Here are some ideas to get you started:
 
 ### Web & Blockchain
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,solana" alt="Web & Blockchain" />
+  <a href="https://namu.wiki/w/Java" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  </a>
+  <a href="https://namu.wiki/w/솔라나" target="_blank">
+    <img src="https://skillicons.dev/icons?i=solana" alt="Solana" />
+  </a>
 </p>
 
 ---
