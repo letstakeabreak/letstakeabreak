@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=letstakeabreak&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000" alt="GitHub Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=letstakeabreak&theme=react-dark&area=true" alt="Activity Graph" />
 </p>
