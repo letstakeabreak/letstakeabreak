@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## 🛠 Tech Stack
 
 ### Apple Platforms
-<p align="left">
+<p align="center">
   <a href="https://namu.wiki/w/Apple" target="_blank">
     <img src="https://skillicons.dev/icons?i=apple" alt="Apple" />
   </a>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Embedded & Hardware
-<p align="left">
+<p align="center">
   <a href="https://namu.wiki/w/C(프로그래밍%20언어)" target="_blank">
     <img src="https://skillicons.dev/icons?i=c" alt="C" />
   </a>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 * **Prototyping:** 3D Printing (Bambu Lab P1S, CR-10 Max)
 
 ### Web & Blockchain
-<p align="left">
+<p align="center">
   <a href="https://namu.wiki/w/Java" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   </a>
