@@ -62,11 +62,24 @@ Here are some ideas to get you started:
 ---
 ## 📊 My Coding Stats
 
-| 📈 GitHub Stats | 🚀 Top Languages |
-| :---: | :---: |
-| ![Gibeom's Stats](https://github-readme-stats.vercel.app/api?username=letstakeabreak&show_icons=true&theme=radical) | ![Gibeom's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letstakeabreak&layout=compact&theme=radical) |
+<div align="center">
+  <h3>📊 Miro's Independent Status Report</h3>
 
----
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/letstakeabreak">
+          <img src="https://github-readme-stats.vercel.app/api?username=letstakeabreak&show_icons=true&theme=radical" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/letstakeabreak">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letstakeabreak&langs_count=8&layout=compact&theme=radical" alt="Top Langs" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
