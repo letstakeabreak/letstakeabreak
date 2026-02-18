@@ -52,14 +52,18 @@ Here are some ideas to get you started:
 ### Web & Blockchain
 <p align="center">
   <a href="https://namu.wiki/w/Java" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" style="vertical-align: middle; margin: 5px;" />
   </a>
-  <a href="https://namu.wiki/w/솔라나" target="_blank">
-    <img src="https://skillicons.dev/icons?i=solana" alt="Solana" />
+  
+  <a href="https://namu.wiki/w/%EC%86%94%EB%9D%BC%EB%82%98" target="_blank" rel="noreferrer">
+    <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIHZpZXdCb3g9IjAgMCA1MCA1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiM5OTQ1RkYiIC8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzE0RjE5NSIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCIgcng9IjExIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxnIGZpbGw9IndoaXRlIj4KICAgIDxwYXRoIGQ9Ik0xMyAxNy42aDI0bC0zLjkgMy45SDEzem0wIDguM2gyNGwtMy45IDMuOUgxM3ptMCA4LjNoMjRsLTMuOSAzLjlIMTN6Ii8+CiAgPC9nPgo8L3N2Zz4=" 
+    alt="Solana" style="vertical-align: middle; margin: 5px; width: 50px; height: 50px;" />
   </a>
 </p>
 
 ---
+
+
 ## 📊 My Coding Stats
 
 <div align="center">
